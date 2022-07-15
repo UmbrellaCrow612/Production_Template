@@ -9,3 +9,8 @@ Includes
 - Prisma 
 - Next Auth
 - Next auth & Prisma Adaptor
+- All feats branch for production: Tailwind, Prisma, Next Auth.
+
+Things you could add:
+
+Next themes to Tailwind examples
