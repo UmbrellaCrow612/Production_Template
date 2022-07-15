@@ -8,3 +8,4 @@ Includes
 - MUI starter 
 - Prisma 
 - Next Auth
+- Next auth & Prisma Adaptor
